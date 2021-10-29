@@ -25,7 +25,7 @@ Created a hulu clone(Hulu landing page)with HTML,CSS And JS
 ## Screenshots
  
  Here's How My version of HULU page looks like:-
-![App Screenshot](https://ibb.co/YL59tm1)
+ ![Screenshot](screenshot.png)
 
 
 ## HULU-CLONE
